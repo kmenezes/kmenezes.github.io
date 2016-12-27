@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Blog Posts"
+    url: /Blog-posts/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV/Resume"
+    url: /Resume/
+  - title: "Sitemap"
+    url: /sitemap/
