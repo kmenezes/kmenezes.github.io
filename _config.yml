@@ -11,7 +11,7 @@ title                    : "Keith Menezes"
 title_separator          : "-"
 name                     : "Keith Menezes"
 description              : "Portfolio Website."
-url                      : "kmenezes/kmenezes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://kmenezes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/fly.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -81,7 +81,7 @@ author:
   bio              : "Welcome to my portfolio website."
   location         : "ON, Canada"
   email            : "keith.menezes@hotmail.com"
-  uri              : "keithmenezes.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
