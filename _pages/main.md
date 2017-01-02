@@ -1,16 +1,7 @@
 ---
-layout: home
+layout: single
 permalink: /
-title: "Main"
+title: "Welcome to Keith Menezes' Website"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
-This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
-
-You can use all kinds of markdown here. See [the guide](/markdown/).
-
-## Images
 ![alt text](assets/images/fly.jpg "Logo Title Text 1")
