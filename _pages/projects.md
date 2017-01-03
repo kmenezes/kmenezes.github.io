@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Projects"
+excerpt: "Showcase of my Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -13,9 +14,15 @@ This is where I will be keeping up to date progress reports of my projects via p
 |:--------:|:--------------:|:---------------:|
 |Anything remotely controlled, semi-autonomous, to fully autonomous systems (multirotors, helicopters, planes, planetary rovers, boats and submarines).  |  CubeSat: mechanical and electrical design, antenna design, space-segment-software design/implementation/testing/deployment/maintenance, wireless communication, thermal/vibrational/vacuum testing and reliability. | Software Dev (web/apps, games), VR/AR, cloud geospatial analytics tools​, big data, machine learning, GPS. |
 
+![Areas of Study](/assets/images/space.jpg "Areas of Study")
+
 ### Drones
 
 I am active in the DIY-UAS community on [DIYDRONES](http://diydrones.com/profile/menezes) and I'm always willing to provide advice/assistance as well as learn from others. I have practical experience in planning and executing aerial surveys (using UAV technology), acting as a navigator/pilot, writing approved Special Flight Operations Certificates, and developing UAV technology/platform solutions.
+{: .text-justify}
+
+![How Drones are Made](/assets/images/parts-to-drone.png "How Drones are Made")
+*When I first purchased my drone, I received a large box of small intricate parts and limited instructions. I really have to thank the community for all the progress I made and problems I solved. From left to right, you can see the progression and integration of FPV goggles/camera, 3D printed parts, and my programmed controller.*
 
 ### CubeSats
 
@@ -27,9 +34,9 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 ## Featured Links
 
 1. [The Pierre L. Morrissette Institute for Entrepreneurship Silver Prize](http://lassonde.yorku.ca/articles/lassonde-students-clean-young-space-entrepreneurs-competition)
-2. [Student club featured in IEEE Communications Magazine](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
-3. [Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
-4. [Support IEEE by purchasing the article](http://ieeexplore.ieee.org/abstract/document/7105664/) or [purchase via Research Gate](https://www.researchgate.net/publication/276298344_Obtaining_Infrared_Spectral_Imagery_of_the_Upper_Atmosphere_Using_a_Cubesat)
+2. [CSDC@YorkU team featured in IEEE Communications Magazine](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
+3. [Our Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
+
 
 #### Tech Interests
 Space exploration and development, software development, aviation, aerospace, defense, space systems, satellites, nanosatellites, CubeSats, global positioning systems (GPS), control systems, system design, telecommunications, 3D modeling and scanning, unmanned aerial vehicles, UAV, UAS, aerial video/photography, precision agriculture, telematics, geomatics, engineering, additive manufacturing and 3D printing, smart materials, digital image processing, mobile app and web development, and entrepreneurship.

@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 layout: single
-sitemap: true
 permalink: /about
 excerpt: "A little bit about me and my life"
 author_profile: true
@@ -32,4 +31,4 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
 * Outdoors:
     * Skiing
     * Boating (kayaking, canoeing, motor, etc.)
-    * Hiking/Trekking/Exploring
+    * Hiking/Trekking/Travelling

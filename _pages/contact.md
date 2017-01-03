@@ -22,6 +22,9 @@ My contact information is below (as well as on the left side). Here are my email
 
 ## Organization Contact
 * Lassonde Satellite : [LASSAT](http://lassat.ca)
+
+[http://lassat.ca](/assets/images/lassat.jpg "http://lassat.ca")
+
 * CSDC@YorkU : [Twitter](http://twitter.com/YorkCSDC)
 * CSDC@YorkU : [Facebook Page](http://facebook.com/YorkCSDC)
 * CSDC@YorkU : [Email](mailto:csdcyorku@gmail.com)
