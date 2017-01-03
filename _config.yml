@@ -11,9 +11,9 @@ title                    : "Keith Menezes"
 title_separator          : "-"
 name                     : "Keith Menezes"
 description              : "I'm passionate about next generation technology startups and solving the world's most complex problems with a cohesive team."
-url                      : "https://keithmenezes.ca" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kmenezes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : kmenezes/kmenezes.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kmenezes/kmenezes.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/fly.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              :  # true, false (default)
 words_per_minute         : 200
@@ -69,9 +69,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-80508940-1"
 
 
 # Site Author
@@ -133,8 +133,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
