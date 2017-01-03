@@ -24,7 +24,7 @@ I am active in the DIY-UAS community on [DIYDRONES](http://diydrones.com/profile
 
 CubeSats
 ==========
-I've also working on various nanosatellite (CubeSat) development projects at the Lassonde School of Engineering. The main one being the [Canadian Satellite Design Challenge Team at York University](https://www.lassat.ca). Our challenge is to design and build a 3U CubeSat from scratch using limited commercial off the shelf components by mostly designing it ourselves. The competition information [can be found here](https://www.csdcms.ca).I also played an important role in the team working towards the [QB-50 project](https://www.qb50.eu).
+I've also working on various nanosatellite (CubeSat) development projects at the Lassonde School of Engineering. The main one being the [Canadian Satellite Design Challenge Team at York University](https://www.lassat.ca). Our challenge is to design and build a 3U CubeSat from scratch using limited commercial off the shelf components by mostly designing it ourselves. The competition information [can be found here](https://www.csdcms.ca). I also played an important role in the team working towards the [QB-50 project](https://www.qb50.eu).
 {: .text-justify}
 
 **Please follow CSDC@YorkU on [Facebook](https://www.facebook.com/YorkCSDC/) and [Twitter](https://twitter.com/YorkCsdc) to join and support us on our journey!**{: .text-justify}
