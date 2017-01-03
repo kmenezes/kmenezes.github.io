@@ -24,6 +24,7 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
 {: .text-justify}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Drones
 ========
 I am active in the DIY-UAS community on [DIYDRONES](http://diydrones.com/profile/menezes) and I'm always willing to provide advice/assistance as well as learn from others. I have practical experience in planning and executing aerial surveys (using UAV technology), acting as a navigator/pilot, writing approved Special Flight Operations Certificates, and developing UAV technology/platform solutions.
@@ -35,6 +36,8 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 
 **Please follow CSDC@YorkU on [Facebook](https://www.facebook.com/YorkCSDC/) and [Twitter](https://twitter.com/YorkCsdc) to join and support us on our journey!**{: .text-justify}
 =======
+=======
+>>>>>>> refs/remotes/origin/gh-pages
 Personal Hobbies
 ===================
 * Hockey - played for 4 years, won the [Tony Roman Tournament](http://www.tchl.org/tr/) once
@@ -47,4 +50,7 @@ Personal Hobbies
     * Boating (kayaking, canoeing, motor, etc.)
     * Hiking/Trekking/Exploring
     * Camping
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+>>>>>>> refs/remotes/origin/gh-pages
