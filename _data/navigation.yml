@@ -8,5 +8,7 @@ main:
     url: /projects/
   - title: "CV/Resume"
     url: /Resume/
+  - title: "Contact"
+    url: /contact/
   - title: "Sitemap"
     url: /sitemap/
