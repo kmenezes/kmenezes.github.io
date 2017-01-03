@@ -17,6 +17,7 @@ My contact information is below (as well as on the left side). Here are my email
   * [Gmail](mailto:keithdanielmenezes@gmail.com)
 * LinkedIn: [keithdanielmenezes](http://www.linkedin.com/in/keithdanielmenezes)
 * Angelco: [keith-menezes](https://angel.co/keith-menezes)
+* Messenger: [keith.menezes1](https://www.messenger.com/t/keith.menezes1)
 * Skype: keith-menezes
 
 ## Organization Contact

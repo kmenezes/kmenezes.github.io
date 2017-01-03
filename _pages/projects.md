@@ -8,11 +8,6 @@ author_profile: true
 {% include base_path %}
 
 This is where I will be keeping up to date progress reports of my projects via photos and documents.
-New
-[yoo](assets/images/space.png "welcom")
-picture
-[Hey](assets/images/space.jpg "dickpicks")
-here
 
 | Unmanned Systems | Space Exploration | Extracurricular |
 |:--------:|:--------------:|:---------------:|
@@ -31,14 +26,11 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 
 ## Featured Links
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. Facilisis in pretium nisl aliquet
-5. Nulla volutpat aliquam velit
-6. Faucibus porta lacus fringilla vel
-7. Aenean sit amet erat nunc
-8. Eget porttitor lorem
+1. [The Pierre L. Morrissette Institute for Entrepreneurship Silver Prize](http://lassonde.yorku.ca/articles/lassonde-students-clean-young-space-entrepreneurs-competition)
+2. [Student club featured in IEEE Communications Magazine](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
+3. [Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
+4. [Support IEEE by purchasing the article](http://ieeexplore.ieee.org/abstract/document/7105664/)
+5. [IEEE Article also available via Research Gate](https://www.researchgate.net/publication/276298344_Obtaining_Infrared_Spectral_Imagery_of_the_Upper_Atmosphere_Using_a_Cubesat)
 
 #### Tech Interests
 Space exploration and development, software development, aviation, aerospace, defense, space systems, satellites, nanosatellites, CubeSats, global positioning systems (GPS), control systems, system design, telecommunications, 3D modeling and scanning, unmanned aerial vehicles, UAV, UAS, aerial video/photography, precision agriculture, telematics, geomatics, engineering, additive manufacturing and 3D printing, smart materials, digital image processing, mobile app and web development, and entrepreneurship.
