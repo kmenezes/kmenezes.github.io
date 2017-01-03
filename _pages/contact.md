@@ -21,7 +21,9 @@ My contact information is below (as well as on the left side). Here are my email
 * Skype: keith-menezes
 
 ## Organization Contact
-* CSDC@YorkU: [LASsonde SATellite](http://lassat.ca)
+* Lassonde Satellite : [LASSAT](http://lassat.ca)
 * CSDC@YorkU : [Twitter](http://twitter.com/YorkCSDC)
-* CSDC@YorkU : [Facebook](http://facebook.com/YorkCSDC)
+* CSDC@YorkU : [Facebook Page](http://facebook.com/YorkCSDC)
 * CSDC@YorkU : [Email](mailto:csdcyorku@gmail.com)
+* CSDC@YorkU : [Join via YuConnect](https://yorku.collegiatelink.net/organization/csdc)
+* CSDC@YorkU : [Join via Facebook Groups](https://www.facebook.com/groups/YorkCSDC/)
