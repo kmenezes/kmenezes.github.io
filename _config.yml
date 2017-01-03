@@ -10,20 +10,20 @@ locale                   : "en"
 title                    : "Keith Menezes"
 title_separator          : "-"
 name                     : "Keith Menezes"
-description              : "Welcome to my Portfolio Website"
-url                      : "https://kmenezes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "I'm passionate about next generation technology startups and solving the world's most complex problems with a cohesive team."
+url                      : "https://keithmenezes.ca" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kmenezes/kmenezes.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/fly.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : facebook # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook: # "https://developers.facebook.com/docs/plugins/comments"
+  facebook:  # "https://developers.facebook.com/docs/plugins/comments"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
@@ -81,7 +81,7 @@ author:
   bio              : "Welcome to my portfolio website."
   location         : "ON, Canada"
   email            : "keith.menezes@hotmail.com"
-  uri              :
+  uri              : # "www.keithmenezes.ca"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,8 +104,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/channel/UCOZAHUNJh-cnpVMwipcej-Q" # "https://youtube.com/c/MichaelRoseDesign"
-
-
+  diydrones        : "www.diydrones.com/profiles/menezes"
 # Reading Files
 include:
   - .htaccess
