@@ -17,13 +17,13 @@ My contact information is below (as well as on the left side). Here are my email
   * [Gmail](mailto:keithdanielmenezes@gmail.com)
 * LinkedIn: [keithdanielmenezes](http://www.linkedin.com/in/keithdanielmenezes)
 * Angelco: [keith-menezes](https://angel.co/keith-menezes)
-* Messenger: [keith.menezes1](https://www.messenger.com/t/keith.menezes1)
 * Skype: keith-menezes
+* Messenger: [keith.menezes1](https://www.messenger.com/t/keith.menezes1)
 
 ## Organization Contact
 * Lassonde Satellite : [LASSAT](http://lassat.ca)
 
-[http://lassat.ca](/assets/images/lassat.jpg "http://lassat.ca")
+![http://lassat.ca](/assets/images/lassat.jpg "http://lassat.ca")
 
 * CSDC@YorkU : [Twitter](http://twitter.com/YorkCSDC)
 * CSDC@YorkU : [Facebook Page](http://facebook.com/YorkCSDC)

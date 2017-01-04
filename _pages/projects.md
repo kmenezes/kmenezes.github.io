@@ -24,18 +24,36 @@ I am active in the DIY-UAS community on [DIYDRONES](http://diydrones.com/profile
 ![How Drones are Made](/assets/images/parts-to-drone.png "How Drones are Made")
 *When I first purchased my drone, I received a large box of small intricate parts and limited instructions. I really have to thank the community for all the progress I made and problems I solved. From left to right, you can see the progression and integration of FPV goggles/camera, 3D printed parts, and my programmed controller.*
 
+![Tethered UAV](/assets/images/tether.jpg "Tethered UAV")
+
+*One of the final tests of my power-over-tether UAV*
+
 ### CubeSats
 
 I've also working on various nanosatellite (CubeSat) development projects at the Lassonde School of Engineering. The main one being the [Canadian Satellite Design Challenge Team at York University](https://www.lassat.ca). Our challenge is to design and build a 3U CubeSat from scratch using limited commercial off the shelf components by mostly designing it ourselves. The competition information [can be found here](https://www.csdcms.ca). I also played an important role in the team working towards the [QB-50 project](https://www.qb50.eu).
 {: .text-justify}
+
+![CubeSat Electrical Power System Hardware Testing](/assets/images/cubesat.jpg "CubeSat Electrical Power System Hardware Testing")
+*From top left row to right: you can see the battery testing and validation process we went through for the QB50/CSDC satellite(s). We conducted vibration tests with clamps that will be used for securing the batteries to the spacecraft, cycle testing to determine the End-of-Life for the batteries, and vacuum testing (because space is a vacuum). The bottom row, shows our testing of the protection circuit using LabVIEW, testing of the solar panel's peak-power, and we also vibration tested a Beagle Bone Black because we were thinking of using it for the OnBoard-Computer.*
+
+![Proto-type Solar Array](/assets/images/ptsolar.jpg "Proto-type Solar Array")
+*Here's a glimpse of our proto-type solar array that our advisor helped us solder together.*
+
+![Proto-type Antenna](/assets/images/ant.jpg "Proto-type Antenna")
+
+*Here's a glimpse of our proto-type antenna. Yes its two pieces of measuring tape slapped to a PCB, and yes it transmits radio frequencies. Trust me, I didn't believe it myself.*
 
 **Please follow CSDC@YorkU on [Facebook](https://www.facebook.com/YorkCSDC/) and [Twitter](https://twitter.com/YorkCsdc) to follow and support us on our journey! Also see our [Website!](http://www.lassat.ca)**{: .text-justify}
 
 ## Featured Links
 
 1. [The Pierre L. Morrissette Institute for Entrepreneurship Silver Prize](http://lassonde.yorku.ca/articles/lassonde-students-clean-young-space-entrepreneurs-competition)
-2. [CSDC@YorkU team featured in IEEE Communications Magazine](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
-3. [Our Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
+
+![Here's a picture of our team](/assets/images/sedsteam.jpg)
+*Here's a picture of our team: Benjamin Ghatan, myself and Yuriy Davydov*
+
+2. [CSDC@YorkU team featured in school post](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
+3. [Full Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
 
 
 #### Tech Interests
