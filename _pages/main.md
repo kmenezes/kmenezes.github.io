@@ -8,3 +8,4 @@ author_profile: true
 ![Summer-2015 Research Assistant](/assets/images/july31st-dji-3dr.jpg "Summer-2015 Research Assistant")
 
 *Thanks for visiting! Please explore my website and tell me what you think* :smile:
+##### :construction: This website is under continual construction and improvement :warning:
