@@ -26,7 +26,7 @@ I am active in the DIY-UAS community on [DIYDRONES](http://diydrones.com/profile
 
 ![Tethered UAV](/assets/images/tether.jpg "Tethered UAV")
 
-*One of the final tests of my power-over-tether UAV*
+*One of the final tests of my power-over-tether UAV project (Summer 2016)*
 
 ### CubeSats
 
