@@ -22,17 +22,18 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
 {: .text-justify}
 
 ## Personal Hobbies
-* Hockey - played for about 5 years, won the [Tony Roman Tournament](http://www.tchl.org/tr/) once. Still enjoy a nice game of pond hockey
-* Soccer - played for 4 years, [Unionville Milliken Soccer Club](http://www.u-msc.com/) House League champions 2 years in a row
-* Swimming - I used to be a lifeguard/swim instructor for a couple years
-* I play basically all sports - Volleyball, Football, Basketball, European Handball, etc.
-* Flying Drones
-* Hip-Hop Dancing (looking to learn classical dances like Salsa)
-* I enjoy **all types** of music especially jazz. (Yes everything including country)
-* Outdoors:
-    * Skiing
-    * Boating (kayaking, canoeing, motor, etc.)
-    * Hiking/Trekking/Travelling
+* __Hockey__ - played for about 5 years, won the [Tony Roman Tournament](http://www.tchl.org/tr/) once. Still enjoy a nice game of pond hockey
+* __Soccer__ - played for 4 years, [Unionville Milliken Soccer Club](http://www.u-msc.com/) House League champions 2 years in a row
+* __Swimming__ - I used to be a lifeguard/swim instructor for a couple years :swimmer:
+* __I play basically all sports__ - Volleyball, Football, Basketball, European Handball, etc. :golf: :baseball: :tennis: :bicyclist: :basketball: :football: :soccer:
+* __Flying Drones__ :airplane: :helicopter:
+* __Hip-Hop Dancing__ (looking to learn classical dances like Salsa) :dancer:
+* I enjoy **all types** of music especially jazz. (Yes everything including country) :headphones:
+* I play the **drums** occasionally :notes:
+* __Outdoors__:
+    * __Skiing__ :ski:
+    * __Boating__ (kayaking, canoeing, motor, etc.) :rowboat:
+    * __Hiking/Trekking/Travelling__ :earth_asia:
 
 ![Just loving the outdoors](/assets/images/justlovingtheoutdoors.jpg "Just loving the outdoors")
 *Having a great time in the middle of no-where (i.e. Lake Claire), yes there were a lot of bugs, thus the face-net, making it easier to concentrate on navigating for my pilot.*
