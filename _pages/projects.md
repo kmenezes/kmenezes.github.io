@@ -54,7 +54,7 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 
 2. [CSDC@YorkU team featured in school post](http://lassonde.yorku.ca/articles/student-club-featured-ieee-communications-magazine)
 3. [Full Article Published in IEEE Communications Magazine](http://lassonde.yorku.ca/sites/default/files/IEEE-Communications-Mag-CSDCYorkU%20(2).pdf)
-
+4. [Volunteer Work for the UAV-g-2015 conference](http://lassonde.yorku.ca/articles/drones-take-over-lassonde-during-international-geomatics-conference)
 
 #### Tech Interests
 Space exploration and development, software development, aviation, aerospace, defense, space systems, satellites, nanosatellites, CubeSats, global positioning systems (GPS), control systems, system design, telecommunications, 3D modeling and scanning, unmanned aerial vehicles, UAV, UAS, aerial video/photography, precision agriculture, telematics, geomatics, engineering, additive manufacturing and 3D printing, smart materials, digital image processing, mobile app and web development, and entrepreneurship.
