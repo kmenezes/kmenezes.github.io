@@ -26,7 +26,7 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
 * Soccer - played for 4 years, [Unionville Milliken Soccer Club](http://www.u-msc.com/) House League champions 2 years in a row
 * Swimming - I used to be a lifeguard/swim instructor for a couple years
 * I play basically all sports - Volleyball, Football, Basketball, European Handball, etc.
-* Flying Drones (FPV-drones)
+* Flying Drones
 * Hip-Hop Dancing (looking to learn classical dances like Salsa)
 * I enjoy **all types** of music especially jazz. (Yes everything including country)
 * Outdoors:
