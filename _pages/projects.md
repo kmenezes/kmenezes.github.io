@@ -12,7 +12,7 @@ This is where I will be keeping up to date progress reports of my projects via p
 
 | Unmanned Systems | Space Exploration | Extracurricular |
 |:--------:|:--------------:|:---------------:|
-|Anything remotely controlled, semi-autonomous, to fully autonomous systems (multirotors, helicopters, planes, planetary rovers, boats and submarines).  |  CubeSat: mechanical and electrical design, antenna design, space-segment-software design/implementation/testing/deployment/maintenance, wireless communication, thermal/vibrational/vacuum testing and reliability. | Software Dev (web/apps, games), VR/AR, cloud geospatial analytics tools​, big data, machine learning, GPS. |
+|Anything remotely controlled, semi-autonomous, to fully autonomous robots (multirotors, helicopters, planes, planetary rovers, boats and submarines).  |  CubeSat: mechanical and electrical design, antenna design, space-segment-software design/implementation/testing/deployment/maintenance, wireless communication, thermal/vibrational/vacuum testing and reliability. | Software Dev (web/apps, games), VR/AR, cloud geospatial analytics tools​, big data, machine learning, GPS. |
 
 ![Areas of Study](/assets/images/space.jpg "Areas of Study")
 
