@@ -43,7 +43,7 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 
 *Here's a glimpse of our proto-type antenna. Yes its two pieces of measuring tape slapped to a PCB, and yes it transmits radio frequencies. Trust me, I didn't believe it myself.*
 
-**Please follow CSDC@YorkU on [Facebook](https://www.facebook.com/YorkCSDC/) and [Twitter](https://twitter.com/YorkCsdc) to follow and support us on our journey! Also see our [Website!](http://www.lassat.ca)**{: .text-justify}
+**Please follow CSDC@YorkU via the links on my [Contact Page > Organization](http://keithmenezes.ca/contact/) to follow and support us on our journey!**{: .text-justify}
 
 ## Featured Links
 

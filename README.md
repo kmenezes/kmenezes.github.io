@@ -10,9 +10,9 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-### Icons + Demo Images:
+### Icons:
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [The Noun Project](https://thenounproject.com)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Unsplash](https://unsplash.com/)
 
