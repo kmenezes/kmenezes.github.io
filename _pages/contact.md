@@ -5,21 +5,21 @@ excerpt: "Contact me"
 layout: single
 author_profile: true
 ---
-My contact information is below (as well as on the left side). Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me on by email iCloud.
+My contact information is below. Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services such as: OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me on by gmail.
 {: .text-justify}
 **Keep connected with me!**
 {: .text-justify}
 
 ## Personal Contact
-* E-mails:
-  * [iCloud](keith.menezes@icloud.com)
+* E-mail:
+  * [Gmail](mailto:keithdanielmenezes@gmail.com)
 * LinkedIn: [keithdanielmenezes](http://www.linkedin.com/in/keithdanielmenezes)
 * Angelco: [keith-menezes](https://angel.co/keith-menezes)
 * Skype: Keith-Menezes
 * Facebook Messenger: [keith.menezes1](https://www.messenger.com/t/keith.menezes1)
 
 ## Organization Contact
-* Lassonde Satellite : [LASSAT](http://lassat.ca)
+* Lassonde Satellite: [LASSAT](http://lassat.ca)
 
 ![http://lassat.ca](/assets/images/lassat.jpg "http://lassat.ca")
 
