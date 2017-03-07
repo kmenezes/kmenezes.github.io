@@ -5,7 +5,7 @@ excerpt: "Contact me"
 layout: single
 author_profile: true
 ---
-My contact information is below. Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services such as: OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me on by gmail.
+My contact information is below. Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services such as: OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me by gmail.
 {: .text-justify}
 **Keep connected with me!**
 {: .text-justify}
