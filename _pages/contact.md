@@ -12,7 +12,7 @@ My contact information is below. Here are my email(s) and various social media l
 
 ## Personal Contact
 * E-mail:
-  * [Gmail](mailto:keith.menezes@icloud.com)
+  * [iCloud](mailto:keith.menezes@icloud.com)
 * LinkedIn: [keithdanielmenezes](http://www.linkedin.com/in/keithdanielmenezes)
 * Angelco: [keith-menezes](https://angel.co/keith-menezes)
 * Skype: Keith-Menezes
