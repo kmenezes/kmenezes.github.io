@@ -5,17 +5,18 @@ excerpt: "Contact me"
 layout: single
 author_profile: true
 ---
-My contact information is below. Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services such as: OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me by gmail.
+My contact information is below. Here are my email(s) and various social media links. You can see I use multiple email providers. This is because I use many cloud services such as: OneDrive, iCloud, Google Drive/Docs, etc. this makes it easier for me to keep track of my shared files. Contact me by iCloud.
 {: .text-justify}
 **Keep connected with me!**
 {: .text-justify}
 
 ## Personal Contact
 * E-mail:
-  * [Gmail](mailto:keithdanielmenezes@gmail.com)
+  * [Gmail](mailto:keith.menezes@icloud.com)
 * LinkedIn: [keithdanielmenezes](http://www.linkedin.com/in/keithdanielmenezes)
 * Angelco: [keith-menezes](https://angel.co/keith-menezes)
 * Skype: Keith-Menezes
+* Phone: +1 647-989-5014
 * Facebook Messenger: [keith.menezes1](https://www.messenger.com/t/keith.menezes1)
 
 ## Organization Contact
