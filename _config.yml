@@ -96,7 +96,7 @@ author:
   linkedin         : "keithdanielmenezes"
   pinterest        :
   soundcloud       : # "keithmenezes1"
-  stackoverflow    : 3833182/user3833182 # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : #3833182/user3833182 # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "YorkCSDC"
@@ -104,7 +104,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/channel/UCOZAHUNJh-cnpVMwipcej-Q" # "https://youtube.com/c/MichaelRoseDesign"
-  diydrones        : "www.diydrones.com/profiles/menezes"
+#  diydrones        : "www.diydrones.com/profiles/menezes"
 # Reading Files
 include:
   - .htaccess
