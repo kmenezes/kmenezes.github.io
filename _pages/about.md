@@ -36,7 +36,7 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
     * __Hiking/Trekking/Travelling__ :earth_asia:
 
 ![Just loving the outdoors](/assets/images/justlovingtheoutdoors.jpg "Just loving the outdoors")
-*Having a great time in the middle of no-where (i.e. Lake Claire), yes there were a lot of bugs, thus the face-net, making it easier to concentrate on navigating for my pilot.*
+*Having a great time in the middle of no-where (i.e. Lake Claire, largest lake in Alberta), yes there were a lot of bugs, thus the face-net, making it easier to concentrate on navigating for my pilot.*
 
 ![Waterskiing at Kashagawigamog Lake](/assets/images/waterski.jpg "Waterskiing at Kashagawigamog Lake")
 *Waterskiing with my cousins for the first time at Kashagawigamog Lake.*
