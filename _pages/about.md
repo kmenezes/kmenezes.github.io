@@ -7,14 +7,14 @@ author_profile: true
 ---
 
 {% include base_path %}
-Hello, my name is Keith Menezes. I'm a Space Engineering candidate at the [Lassonde School of Engineering, York University](http://www.lassonde.yorku.ca/).
+Hello, my name is Keith Menezes. I graduated from Space Engineering at the [Lassonde School of Engineering, York University](http://www.lassonde.yorku.ca/).
 {: .text-justify}
 
 ![Flying my personal UAV after tuning and tests (Summer 2016)](/assets/images/fly.jpg "Flying my personal UAV after tuning and tests (Summer 2016)")
 __Flying my personal UAV after tuning and tests (Summer 2016)__
 {: .text-justify}
 
-My main interests are in Unmanned Aerial Systems (UAS) and Nano-Satellites. I have been very fortunate throughout my lifetime to be involved in fantastic experiences all over the world that have driven my passions and curiosities. These events have ultimately formed my education and career path.
+My main interests are in Unmanned Systems and Nano-Satellites. I have been very fortunate throughout my lifetime to be involved in fantastic experiences all over the world that have driven my passions and curiosities. These events have ultimately formed my education and career path.
 {: .text-justify}
 
 ## Personal Traits
@@ -28,7 +28,7 @@ I am outgoing, charismatic, enthusiastic about learning new things, always inter
 * __I play basically all sports__ - Volleyball, Football, Basketball, European Handball, etc. :golf: :baseball: :tennis: :bicyclist: :basketball: :football: :soccer:
 * __Flying and building drones/robots/satellites__ :airplane: :helicopter:
 * __Hip-Hop Dancing__ (looking to learn classical dances like Salsa) :dancer:
-* I enjoy **all types** of music especially jazz. (Yes everything including country) :headphones:
+* I enjoy **all types** hip-hop, classical, jazz, etc. (Yes everything including country) :headphones:
 * I play the **drums** occasionally :notes:
 * __Outdoors__:
     * __Skiing__ :ski:
