@@ -52,13 +52,15 @@ For my final thesis/capstone engineering project, I teamed up with my close frie
 ![STRIDER UMV Team](/assets/images/striderfam.jpg "STRIDER UMV Team")
 *From left to right: Ekram Bhuiyan - Computer Engineering, myself, and Mohammed Kagalwala - Space Engineering.*
 
-We started with an idea proposed by Prof. Costas Armenakis (who was my advisor for the UAV research projects) targeting the Hydrography course's ability to incorporate practical labs. Upon further research we saw a hole in the market for a low-cost UMV capable of completing remote surveying (either little RC boats or expensive survey grade vehicles). This drove us to create a low-cost UMV, by integrating high-quality commercial off-the-shelf technology to deliver real world experience and training for students.
+We started with an idea proposed by Prof. Costas Armenakis (who was my advisor for the UAV research projects) targeting the Hydrography course's ability to incorporate practical labs. Upon further research we saw a hole in the market for a low-cost UMV capable of completing remote surveying (either little RC boats or expensive survey grade vehicles). This drove us to create a low-cost UMV, by integrating high-quality commercial off-the-shelf technology to deliver real world data and practical training for students.
 
-Why stop there? Speaking to one of our industry advisors, an experienced hydrographer, he suggested to add a camera system to allow for remote surveillance. Further reaching out to limnologists, who shared great interest in our project, we integrated pH, temperature and water sampler payload. The sensors/systems offered great value for minimal cost. They were great complimentary payloads, as they benefit from a high accuracy positioning technique called Real-time Kinetic (RTK) GNSS (which I also integrated on UAV platforms). The high-accuracy positioning was critical to the hydrographic payload (i.e. transducer/echo sounder).
-
-Using my experience from UAVs, I made the system capable of performing automatic surveying (i.e. waypoint navigation) through a Ground Control Software (GCS) interface. The GCS could also be used for monitoring mission critical services like battery life, real-time location, GPS-lock status, inertial sensor readings, and changing system parameters such as failsafes. Nothing typically goes as planned so we had failsafes for low battery, loss of GCS/RC communication, operations outside geo-fenced regions, and more.
+Why stop there? Speaking to one of our industry advisors, an experienced hydrographer, he suggested to add a camera system to allow for remote surveillance. Further reaching out to limnologists, who shared great interest in our project, we integrated pH, temperature and water sampler payload. The sensors/systems offered great value for minimal cost. They were great complimentary payloads, as they benefited from the high accuracy positioning technique called Real-time Kinetic (RTK) GNSS (which I also integrated on UAV platforms). The high-accuracy positioning was critical to the hydrographic payload (i.e. transducer/echo sounder).
 
 ![STRIDER UMV](/assets/images/strider.jpg "STRIDER UMV")
+
+Using my experience from UAVs, I made the system capable of performing automatic surveying (i.e. waypoint navigation) through a Ground Control Software (GCS) interface, this made the hydrographical surveying process much more efficient. The GCS could also be used for monitoring mission critical services like battery life, real-time location, GPS-lock status, inertial sensor readings, and changing system parameters such as failsafes. Nothing typically goes as planned so we had failsafes for low battery, loss of GCS/RC communication, operations outside geo-fenced regions, and more.
+
+![STRIDER UMV Specification Sheet](/assets/images/striderspecsheet.jpg "[STRIDER UMV Specification Sheet")
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
