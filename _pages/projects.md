@@ -43,9 +43,9 @@ I've also working on various nanosatellite (CubeSat) development projects at the
 
 *Here's a glimpse of our proto-type antenna. Yes its two pieces of measuring tape slapped to a PCB, and yes it transmits radio frequencies. Trust me, I didn't believe it myself.*
 
-![Final Design Review and Environmental Testing at the Canadian Space Agency's David Florida Laboratory in Ottawa, ON.](/assets/images/csdc4fdr.jpg "Final Design Review and Environmental Testing at the Canadian Space Agency's David Florida Laboratory in Ottawa, ON.")
+![CSDC-4 Final Design Review and Environmental Testing at the Canadian Space Agency's David Florida Laboratory in Nepean, ON.](/assets/images/csdc4fdr.jpg "CSDC-4 Final Design Review and Environmental Testing at the Canadian Space Agency's David Florida Laboratory in Nepean, ON.")
 
-*The final product offering for the CSDC-4 FDR, displaying P-POD (Poly-Picosatellite Orbital Deployer) integration plus our custom solar array and antenna design.*
+*The final product offering for the CSDC-4 FDR, displaying P-POD (Poly-Picosatellite Orbital Deployer) integration plus our custom solar array and antenna design. We also got to tour the Canadian Space Agency's David Florida Laboratory in Nepean, ON.*
 
 **Please follow CSDC@YorkU via the links on my [Contact Page > Organization](http://keithmenezes.ca/contact/) to follow and support us on our journey!**{: .text-justify}
 
