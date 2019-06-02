@@ -5,9 +5,9 @@ excerpt: "For those looking to hire"
 permalink: /Resume/
 author_profile: true
 ---
-Last updated May 15th, 2017.
+Last updated June 2nd, 2019.
 
-[PDF Format](/assets/docs/Keith-Menezes-Resume-14-07-2018.pdf)
+[PDF Format](/assets/docs/Keith-Menezes-Resume-02-06-2019.pdf)
 
-![Resume1](/assets/images/Keith-Menezes-Resume-14-07-2018-1.jpg)
-![Resume2](/assets/images/Keith-Menezes-Resume-14-07-2018-2.jpg)
+![Resume1](/assets/images/Keith-Menezes-Resume-02-06-2019-1.jpg)
+![Resume2](/assets/images/Keith-Menezes-Resume-02-06-2019-2.jpg)
