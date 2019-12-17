@@ -24,12 +24,12 @@ My contact information is below. Here are my email(s) and various social media l
 
 ![http://lassat.ca](/assets/images/lassat.jpg "http://lassat.ca")
 
-* CSDC@YorkU : [Twitter](http://twitter.com/YorkCSDC) <a href="https://twitter.com/YorkCSDC" class="twitter-follow-button" data-show-count="false">Follow @YorkCSDC</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+* CSDC@YorkU : [Twitter](https://twitter.com/csdcyorku) <a href="https://twitter.com/csdcyorku" class="twitter-follow-button" data-show-count="false">Follow @YorkCSDC</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * CSDC@YorkU : [Email](mailto:csdcyorku@gmail.com)
 * CSDC@YorkU : [Join via YuConnect](https://yorku.collegiatelink.net/organization/csdc)
 * CSDC@YorkU : [Join via Facebook Groups](https://www.facebook.com/groups/YorkCSDC/)
-* CSDC@YorkU : [Facebook Page](http://facebook.com/YorkCSDC)
+* CSDC@YorkU : [Facebook Page](https://www.facebook.com/csdcyorku/)
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
